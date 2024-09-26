@@ -1,0 +1,7 @@
+4. Decorator:
+a. Ainda no contexto da Cantina da UFERSA, cada um dos lanches disponíveis no
+cardápio possui diferentes versões: normal, gourmet e vegano. Analise esse contexto e
+implemente o padrão Decorator, de forma que possa reaproveitar o máximo os
+métodos/atributos em comum entre cada um dos lanches (objetos). Dica: pode-se
+aplicar o Decorator, onde o lanche gourmet e vegano são “variantes” de um lanche
+comum.
