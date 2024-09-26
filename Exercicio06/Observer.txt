@@ -1,0 +1,21 @@
+6. Observer:
+
+a. Dado o código abaixo de uma classe Subject (do padrão Observer):
+
+interface Observer{
+    Public void update(Subject sl);
+}
+
+class Subject{
+    private List<Observer> Observers=new ArrayList<Observer>();
+
+    public void addObserver(Observer observer){
+        observer.add(observer);
+    }
+
+    public void notifyObserver(){
+        (A)
+    }
+}
+
+Implemente o código de notifyObservers, comentado com um (A) acima
